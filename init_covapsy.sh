@@ -4,5 +4,4 @@ cd covapsy_seti_2024
 git switch pyro
 cd Webots
 source ./install_dependencies_sspcloud.sh
-source ./launch_headless_webots.sh & disown
 
